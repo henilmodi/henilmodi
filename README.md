@@ -1,12 +1,14 @@
 ### Hey, I'm Henil Modi! 👋
 
-I'm a Web Developer from India.
 
-- 🔭 I'm a Sophomore Information Technology(IT) Undergrad. 
+<h1 align="center"> Hey there, I'm Henil Modi 👋</h1>
 
-- 🌱 I’m currently learning Front-End stuffs.  
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/henilmodi/">LinkedIn</a>
-- 😄 Pronouns: He/His
+<h2><strong>Web Developer from India.</strong></h2>
+<h2>Sophomore at A.D. Patel Institute of Techonology.</h2>
 
-<!--<b><u>Technologies and Tools</u></b><br><br>
-<img src="html.png" style="width: 50%; height: 50%;"> <img src="css.png"> <img src="visual-studio-code.png">
+<h2>Would love to discuss on <strong>C,C++, HTML, CSS, Bootstrap.</strong></h2>
+<h3>Reach me : <a href="https://www.linkedin.com/in/henilmodi/" target="_blank"> LinkedIn | </a> <a href="https://www.instagram.com/henil_modi/" target="_blank">Instagram</a></h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henilmodi&show_icons=true" alt ="Henil Modi">
+</p>
