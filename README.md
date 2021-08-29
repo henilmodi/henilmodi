@@ -1,5 +1,6 @@
 
 <h1 align="center"> Hey there, I'm Henil Modi 👋</h1>
+<img src="https://komarev.com/ghpvc/?username=henilmodi&label=PROFILE+VIEWS">
 
 <h2><strong>Web Developer from India.</strong></h2>
 <h2>Undergrad at A.D. Patel Institute of Techonology.</h2>
