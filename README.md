@@ -6,11 +6,11 @@
 <h2>Undergrad at A.D. Patel Institute of Techonology.</h2>
 
 <h2>Would love to discuss on <strong>C, C++, HTML, CSS, Bootstrap.</strong></h2>
-<h3>Reach me : <a href="https://www.linkedin.com/in/henilmodi/" target="_blank"> LinkedIn | </a> <a href="https://www.instagram.com/henil_modi/" target="_blank">Instagram</a></h3>
+<!-- <h3>Reach me : <a href="https://www.linkedin.com/in/henilmodi/" target="_blank"> LinkedIn | </a> <a href="https://www.instagram.com/henil_modi/" target="_blank">Instagram</a></h3> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henilmodi&show_icons=true" alt ="Henil Modi">
-</p>
+</p> -->
 
 ## 📊Github Stats
 
@@ -26,3 +26,9 @@
 <a href="https://github.com/henilmodi/github-readme-activity-graph"><img alt="Henil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=henilmodi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
+## Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/henilmodi/" target="a _blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Henil Modi" height="30" width="40" /></a>
+<a href="https://instagram.com/henil_modi" target="a _blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shyamal.24" height="30" width="40" /></a>
+</p>
+<br/>
